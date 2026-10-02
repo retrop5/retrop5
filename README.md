@@ -1,14 +1,14 @@
 ## Hi there 👋
 I started writing here, but got too busy to finish it.<br>
--- -- -- -- <br>
+———— <br>
 I have 8 major features in tech debt and we all assume we will do it in the next sprint.<br>
 I have 4 delayed features because of insufficient time.<br>
--- -- -- -- <br>
+———— <br>
 I have 3 major projects in cooldown mode.<br>
 I have `n` patches that need to be addressed.<br>
--- -- -- -- <br>
-My clients used to complain once the features are shipped about bugs.<br>
--- -- -- -- <br>
+———— <br>
+My clients used to complain in the past that the features I shipped had bugs.<br>
+———— <br>
 They don't anymore, I just started writing better, faster and cleaner code.
 <!--
 **retrop5/retrop5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
